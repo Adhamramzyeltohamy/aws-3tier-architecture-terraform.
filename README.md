@@ -1,5 +1,3 @@
-# aws-3tier-architecture-terraform.
-Production-ready 3-tier architecture on AWS using Terraform
 # AWS 3-Tier Architecture using Terraform
 
 This project demonstrates a production-ready 3-tier architecture deployed on AWS using Terraform.
